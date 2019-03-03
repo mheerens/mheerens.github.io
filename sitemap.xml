@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mheerens.github.io/projects/deployment/</loc>
+    <lastmod>2019-01-17T10:10:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mheerens.github.io/projects/</loc>
+    <lastmod>2019-01-17T10:03:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mheerens.github.io/projects/machine-learning/</loc>
+    <lastmod>2019-01-17T10:10:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mheerens.github.io/projects/business-intelligence/</loc>
+    <lastmod>2019-01-17T10:10:29+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mheerens.github.io/</loc>
+    <lastmod>2019-01-17T10:10:29+01:00</lastmod>
     <priority>0</priority>
   </url>
   

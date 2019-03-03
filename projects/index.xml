@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M.Heerens</title>
-    <link>https://mheerens.github.io/</link>
-    <description>Recent content on M.Heerens</description>
+    <title>Workings on M.Heerens</title>
+    <link>https://mheerens.github.io/projects/</link>
+    <description>Recent content in Workings on M.Heerens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jan 2019 10:10:29 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jan 2019 10:03:10 +0100</lastBuildDate>
     
-	<atom:link href="https://mheerens.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mheerens.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -39,15 +39,6 @@ The main idea is to build everything around an API, and use that API for (A) con
       <guid>https://mheerens.github.io/projects/business-intelligence/</guid>
       <description>The best way for the business user to actually make a real use of data is to do classic Business Intelligence with software products like Tableau, QlikSense and SiSense.
 In various projects across different industries such as e-commerce, automotive, retail and small to medium sized production companies I developed and deployed simple yet effective data models and dashboards thus giving business users a better understanding for their business.</description>
-    </item>
-    
-    <item>
-      <title>No Rocket Science:</title>
-      <link>https://mheerens.github.io/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mheerens.github.io/home/</guid>
-      <description>Data Science. Simple and Hands-on.</description>
     </item>
     
   </channel>
